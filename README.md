@@ -2,6 +2,8 @@
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...programming
 - ```----> "HONOR TO THE END" <----```
+# 42 cursus
+![oabdelha's 42 stats](https://badge.mediaplus.ma/binary/oabdelha)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=commando0404&show_icons=true&theme=radical)
 <!---
