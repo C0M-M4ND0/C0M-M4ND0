@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning ...programming
 - ```----> "HONOR TO THE END" <----```
 # 42 cursus
-![oabdelha's 42 stats](https://badge.mediaplus.ma/binary/oabdelha)
+[![oabdelha's 42 stats](https://badge42.vercel.app/api/v2/clkdw5kpn003008mh480f29de/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C0M-M4ND0&show_icons=true&theme=radical)
 <!---
 oabdelha404/oabdelha404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
