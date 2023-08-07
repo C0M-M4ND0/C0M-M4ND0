@@ -1,7 +1,6 @@
 - 👋 Hi, I’m ABDELHADI omar
-- 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...programming
-- ```----> "HONOR TO THE END" <----```
+- 👀 I’m interested in DevOps
+
 # 42 cursus
 [![oabdelha's 42 stats](https://badge42.vercel.app/api/v2/clkdw5kpn003008mh480f29de/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
