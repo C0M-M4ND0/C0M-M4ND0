@@ -1,8 +1,7 @@
-- 👋 Hi, I’m ABDELHADI omar
-- 👀 I’m interested in DevOps
+- 👋 Hi, I’m ABDELHADI Omar
+- 👀 I’m a DevOps & Web developer
+- [Portfolio](https://omarabdelhadi.me)
 
-# 42 cursus
-[![oabdelha's 42 stats](https://badge42.vercel.app/api/v2/clkdw5kpn003008mh480f29de/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 <!---
 oabdelha404/oabdelha404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
