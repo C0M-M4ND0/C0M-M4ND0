@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ABDELHADI Omar
 - 👀 I’m a DevOps & Web developer
-- Visual representation of my tech adventures, is live at [Portfolio](https://omarabdelhadi.me)
+- Visual representation of my tech adventures, is live at [omarabdelhadi.me](https://omarabdelhadi.me)
 
  [![oabdelha's 42 stats](https://badge.mediaplus.ma/binary/oabdelha)](https://github.com/oakoudad/badge42)
 <!---
