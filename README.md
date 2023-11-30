@@ -1,8 +1,8 @@
 - 👋 Hi, I’m ABDELHADI Omar
 - 👀 I’m a DevOps & Web developer
-- [Portfolio](https://omarabdelhadi.me)
+- Visual representation of my tech adventures, is live at [Portfolio](https://omarabdelhadi.me)
 
-
+ [![oabdelha's 42 stats](https://badge.mediaplus.ma/binary/oabdelha)](https://github.com/oakoudad/badge42)
 <!---
 oabdelha404/oabdelha404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
