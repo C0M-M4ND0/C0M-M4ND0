@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar ABDELHADI</h1>
-<h3 align="center">DevOps Practitioner & Web Developer</h3>
+<h3 align="center">DevOps Practitioner & Backend Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=C0M-M4ND0&label=Profile%20views&color=0e75b6&style=flat" alt="C0M-M4ND0" /> </p>
 
 
